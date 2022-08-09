@@ -1,0 +1,3 @@
+Kali , Py , Js , C++ , HTML , SQL , CSS , Jv ,
+Bash/Shell , TS , C , Ob-C , Scala , Perl , C# ,
+R...
